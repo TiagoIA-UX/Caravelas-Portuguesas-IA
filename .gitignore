@@ -46,3 +46,18 @@ dist
 .github/prompts/*.local.prompt.md
 .agents/skills/.local/
 .github/skills/.local/
+
+# --- IP Tiago Aureliano da Rocha (auto) ---
+private/
+.cursorrules
+.cursor/
+CURSOR_PROMPT*.md
+*_PROMPT*.md
+MODELO_*.md
+ANALISE*.md
+PLANO_EXECUTIVO*.md
+RESUMO_*.md
+**/config/**/dorks.yaml
+**/config/**/keywords.yaml
+**/config/**/prompts.yaml
+!**/*.example
